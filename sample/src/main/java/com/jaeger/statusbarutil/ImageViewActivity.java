@@ -1,12 +1,14 @@
 package com.jaeger.statusbarutil;
 
 import android.os.Bundle;
-import android.support.annotation.Nullable;
-import android.support.v7.widget.Toolbar;
 import android.view.MenuItem;
 import android.view.View;
 import android.widget.SeekBar;
 import android.widget.TextView;
+
+import androidx.annotation.Nullable;
+import androidx.appcompat.widget.Toolbar;
+
 import com.jaeger.library.StatusBarUtil;
 import com.jaeger.statusbardemo.R;
 import com.r0adkll.slidr.Slidr;
